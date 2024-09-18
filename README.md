@@ -11,7 +11,6 @@ Don't forget to document/comment your code.
 
 a)
 
-	 * * * * * *
 	* * * * * *
 	 * * * * * *
 	* * * * * *
