@@ -3,13 +3,14 @@
 def q1():
   #Write Assignment code here
   #Remember your code must be indented once 
-    
+
+  
+  print(" * * * * * *")
   print("* * * * * *")
   print(" * * * * * *")
   print("* * * * * *") 
   print(" * * * * * *")
-  print("* * * * * *")   
-  print(" * * * * * *\n")
+  print("* * * * * *\n")   
   
   print("* * * * *")
   print("*       *")
@@ -26,7 +27,7 @@ def q1():
   print("     *") 
 def q2():
   #Write Assignment code here
-  print("Hello", end="")
+  print("Hello ", end="")
   print("World") 
 
 def q3(): 
