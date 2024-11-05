@@ -5,28 +5,28 @@ def q1():
   #Remember your code must be indented once
  a) 
     
-    print* * * * * *
-          * * * * * *
-         * * * * * *
-          * * * * * *
-         * * * * * *   
+    print("* * * * * *")
+    print(" * * * * * *")
+    print("* * * * * *") 
+    print(" * * * * * *")
+    print("* * * * * *")   
  b)
 
-    print* * * * *
-         *       *
-         *       *
-         *       *
-         *       *
-         * * * * *
+    print("* * * * *")
+         ("*       *")
+         ("*       *")
+         ("*       *")
+         ("*       *")
+         ("* * * * *") 
  
  c) 
 
-    print* * * * * * 
-          *       *
-           *     *
-            *   *
-             * *
-              *
+    print("* * * * * *") 
+    print(" *       *")
+    print("  *     *")
+    print("   *   *")
+    print("    * *")
+    print("     *") 
 def q2():
   #Write Assignment code here
   print("Hello", end="")
