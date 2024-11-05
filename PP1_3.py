@@ -9,7 +9,7 @@ def q1():
     print(" * * * * * *")
     print("* * * * * *") 
     print(" * * * * * *")
-    print("* * * * * *")   
+    print("* * * * * *\n")   
  b)
 
     print("* * * * *")
@@ -17,7 +17,7 @@ def q1():
     print("*       *")
     print("*       *")
     print("*       *")
-    print("* * * * *") 
+    print("* * * * *\n") 
  
  c) 
 
