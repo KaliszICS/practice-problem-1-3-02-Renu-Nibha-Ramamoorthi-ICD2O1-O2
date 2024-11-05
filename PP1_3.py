@@ -2,15 +2,13 @@
 
 def q1():
   #Write Assignment code here
-  #Remember your code must be indented once
- a) 
+  #Remember your code must be indented once 
     
     print("* * * * * *")
     print(" * * * * * *")
     print("* * * * * *") 
     print(" * * * * * *")
     print("* * * * * *\n")   
- b)
 
     print("* * * * *")
     print("*       *")
@@ -18,8 +16,7 @@ def q1():
     print("*       *")
     print("*       *")
     print("* * * * *\n") 
- 
- c) 
+
 
     print("* * * * * *") 
     print(" *       *")
