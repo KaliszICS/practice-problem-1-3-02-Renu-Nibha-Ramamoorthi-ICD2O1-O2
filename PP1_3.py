@@ -5,39 +5,36 @@ def q1():
   #Remember your code must be indented once
  a) 
     
-    * * * * * *
-     * * * * * *
-    * * * * * *
-     * * * * * *
-    * * * * * *   
+    print* * * * * *
+          * * * * * *
+         * * * * * *
+          * * * * * *
+         * * * * * *   
  b)
 
-    * * * * *
-    *       *
-    *       *
-    *       *
-    *       *
-    * * * * *
+    print* * * * *
+         *       *
+         *       *
+         *       *
+         *       *
+         * * * * *
  
  c) 
 
-    * * * * * * 
-     *       *
-      *     *
-       *   *
-        * *
-         *
+    print* * * * * * 
+          *       *
+           *     *
+            *   *
+             * *
+              *
 def q2():
   #Write Assignment code here
- word = "Hello" 
- word2 = "World"
+  print("Hello", end="")
+  print("World") 
 
- print(word + " " + word2)
 def q3(): 
   #Write Assignment code here
- print("Man")
- print("Board")
- print("Man Overboard")
+ print('"Man"\n"Board"\n"Man Overboard"') 
 def q4():
   #Write Assignment code here
 
